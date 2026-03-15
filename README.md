@@ -12,8 +12,11 @@ Control Paner 우측에 shell 버튼 클릭
 xampp shell 이 열리면 
 
 다음 명령어를 순차적으로 입력
+
 mysql -u root -p
+
 비밀번호입력(비밀번호가없으면 그냥 엔터)
+
 CREATE DATABASE mes_dashboard CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
 프로젝트 클론
